@@ -2,13 +2,15 @@
 
 ## Accepted
 
-* [TAP 1: TAP Purpose and Guidelines](tap1.md)
-* [TAP 2: TAP template](tap2.md)
-* [TAP 3: Multi-role delegations](tap3.md)
-* [TAP 4: Multiple repository consensus on entrusted targets](tap4.md)
-* [TAP 6: Include specification version in metadata](tap6.md)
-* [TAP 9: Mandatory metadata signing schemes](tap9.md)
-* [TAP 10: Remove native support for compressed metadata](tap10.md)
+| TAP | Status | Since spec | Purpose |
+|-----|--------|------------|---------|
+| [TAP 1: TAP Purpose and Guidelines](tap1.md) | N/A | N/A | Process |
+| [TAP 2: TAP template](tap2.md) | N/A | N/A | Process |
+| [TAP 3: Multi-role delegations](tap3.md) | Pending | 3.0 | Spec change |
+| [TAP 4: Multiple repository consensus on entrusted targets](tap4.md) | Pending | 1.0 | Spec change |
+| [TAP 6: Include specification version in metadata](tap6.md) | In-spec | 1.0 | Spec change |
+| [TAP 9: Mandatory metadata signing schemes](tap9.md) | In-spec | 1.0 | Spec change |
+| [TAP 10: Remove native support for compressed metadata](tap10.md) | In-spec | 1.0 | Spec change |
 
 ## Draft
 
